@@ -17,7 +17,7 @@
 <img alingn="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alingn="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> 
 </div>
-
+<br>
 👨‍💻🤖 Analista e Gestor em Inteligência Artificial e Inovação | Desenvolvedor de Software
 
 ## Contato
